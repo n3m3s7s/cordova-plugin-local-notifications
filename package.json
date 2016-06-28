@@ -1,5 +1,5 @@
 {
-  "name": "de.appplant.cordova.plugin.local-notification",
+  "name": "n3m3s7s.cordova.plugin.local-notification",
   "cordova_name": "Cordova LocalNotification Plugin",
   "version": "0.8.4",
   "description": "Schedules and queries for local notifications",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katzer/cordova-plugin-local-notifications.git"
+    "url": "git+https://github.com/n3m3s7s/cordova-plugin-local-notifications.git"
   },
   "keywords": [
     "appplant",
